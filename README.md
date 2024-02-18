@@ -1,4 +1,4 @@
-# Road Accident News Data Scraping and Structured Database Creation
+# ROAD NLP - Real-time Overview and Analysis of Driving Mishaps and Accidents with Natural Language Processing
 
 ## Introduction:
 In this project, we aim to scrape news data related to car accidents from the Times of India website and process this information to create a structured database containing all the details pertinent to each road accident. Leveraging Natural Language Processing (NLP), Named Entity Recognition (NER), and Neural Networks, we will extract, analyze, and organize the news data to develop a comprehensive database that can provide valuable insights into road accidents.
