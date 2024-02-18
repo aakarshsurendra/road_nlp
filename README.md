@@ -13,7 +13,7 @@ The primary objective of this project is to gather real-time data on car acciden
 
 3. **Named Entity Recognition (NER)**: NER will be employed to identify and extract entities such as location, date, time, vehicles involved, casualties, etc., from the preprocessed text data. We will utilize pre-trained NER models such as SpaCy or develop custom models based on the requirements of the project.
 
-4. **Database Creation**: The extracted entities will be organized into a structured database format. We will design a schema to store information such as accident location, date and time, vehicles involved (make, model, license plate), casualties (injuries, fatalities), weather conditions, and any other relevant details.
+4. **Database Creation**: The extracted entities will be organized into a structured database format. We will design a schema to store information such as accident location, date and time, vehicles involved (make, model), casualties (injuries, fatalities), weather conditions, and any other relevant details.
 
 5. **Neural Network Models**: Advanced neural network models, such as recurrent neural networks (RNNs) or transformer-based architectures like BERT, may be employed for tasks such as sentiment analysis, event prediction, or anomaly detection based on the structured data.
 
