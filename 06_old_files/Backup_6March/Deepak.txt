@@ -1,0 +1,35 @@
+- News data from unstructured to structured
+- Choosing the First Sentence vs Summarisation?
+- Other techniques - Dependency Parser, Latent Semantic Mapping(LSA), POS tagging, Bag of words
+- Annotation - Manual vs Automatic - show the tools
+- Building a ML Model, best pipeline , evaluation metrics
+- How to extract entities after we run the ML Model
+- After extracting, how to store it - dataframes(relational), JSON or noSQL?
+- How to make sure duplicates, inaccurate (fatality, gender) is tackled?
+
+
+
+- DistilBert
+- Binary Classification , Binary Cross - Entropy loss
+- Sigmoid Activation Function
+- Bias detection - NER
+- Bias Recognition Module - Tokenizer -> Transformer -> Bias Entity Recognition
+- NER model has been used to find if there are more female names tagged as non-person than male names
+- Another NER model has identified biases based on occupation, race, and demographics
+- RoBERTa, spaCy English Transformer NER Pipeline
+- Masked Language Modelling (MLM)
+- LG-TFIDF
+- LG-ELMO
+
+ELMO vs. BERT
+MLP - Multilayer Perceptron
+RoBERTa
+
+NER - spaCy small, medium, large and TRANSFORMER
+
+
+Where to code? Google Colab Pro needed?
+
+BIAS Detection, BIAS RECOGNITION, BIAS MASKING, DE-BIASING
+
+How to extract the entities after model is built?
