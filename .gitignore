@@ -1,7 +1,7 @@
 06_predictions
 05_model_build
 01_extraction/dataset.csv
-02_clustering/geocode_api.txt
+03_entity/geocode_api.txt
 *.DS_Store
 07_largelanguagemodel/gemini_api.txt
 06_prediction/.ipynb_checkpoints/
