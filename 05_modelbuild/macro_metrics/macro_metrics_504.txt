@@ -1,0 +1,1492 @@
+Text: A Faridabad resident was killed and a youngster was injured after a truck, allegedly being driven rashly despite dense fog, rammed their car on the Gurugram-Faridabad road in the early hours of Monday
+Predicted entities: [('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('early', 'TIME')]
+Annotated entities: [('truck', 'VEHICLE TYPE'), ('driven rashly', 'REASON'), ('fog', 'REASON'), ('car', 'VEHICLE TYPE'), ('early', 'TIME')]
+Accuracy: 0.6
+Precision: 1.0
+Recall: 0.6
+F1-score: 0.7499999999999999
+---------------
+Text: A south Mumbai based businessman who was returning from a friend's house in Navi Mumbai after an Eid celebration died, while his relative was seriously injured
+Predicted entities: [('businessman', 'GENDER')]
+Annotated entities: [('businessman', 'GENDER')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 40-year-old man was killed and his wife seriously injured when their car dashed against a tree in this district, police said on Thursday
+Predicted entities: [('40-year-old', 'AGE'), ('man', 'GENDER'), ('his', 'GENDER'), ('wife', 'GENDER'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON')]
+Annotated entities: [('40-year-old', 'AGE'), ('man', 'GENDER'), ('wife', 'GENDER'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: Five friends celebrating the granting of a visa to study abroad to one of them were injured after their car hit a tree and overturned in Sector 50 in the early hours of Thursday
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('early', 'TIME')]
+Annotated entities: [('Five', 'INJURED'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('early', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: In a hit-and-run case, a couple and their two minor daughters were among five persons who died after being run over by an SUV in Gwalior district of Madhya Pradesh on Thursday afternoon, police said
+Predicted entities: [('hit-and-run', 'REASON'), ('daughters', 'GENDER'), ('five', 'FATALITIES'), ('SUV', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Annotated entities: [('hit-and-run', 'REASON'), ('five', 'FATALITIES'), ('SUV', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: Trichy central region police have begun inquiry into the death of two people in separate accidents, including a hit-and-run case, in Pudukottai and Trichy on Monday
+Predicted entities: [('two', 'FATALITIES'), ('hit-and-run', 'REASON')]
+Annotated entities: [('two', 'FATALITIES')]
+Accuracy: 0.5
+Precision: 0.5
+Recall: 1.0
+F1-score: 0.6666666666666666
+---------------
+Text: Three persons sustained serious injuries , while 10 others escaped with minor injuries after the vehicle in which they were travelling rammed the car and toppled near Ladlapur village in Chittapur taluk, Kalaburagi district on Sunday night
+Predicted entities: [('Three', 'FATALITIES'), ('10', 'INJURED'), ('rammed', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('Three', 'INJURED'), ('10', 'INJURED'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.5
+Precision: 0.6
+Recall: 0.75
+F1-score: 0.6666666666666665
+---------------
+Text: The 8km stretch between the new Katraj tunnel and Navale bridge is turning deadlier by the day, with a 23-year-old motorcyclist losing his life in a hit-and-run case near the new Katraj tunnel around 8am on Wednesday
+Predicted entities: [('23-year-old', 'AGE'), ('his', 'GENDER'), ('hit-and-run', 'REASON'), ('8am', 'TIME')]
+Annotated entities: [('23-year-old', 'AGE'), ('motorcyclist', 'VEHICLE TYPE'), ('hit-and-run', 'REASON'), ('8am', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: Three youngsters, including a 10-year-old boy, were killed in separate accidents on Friday, said the police
+Predicted entities: [('Three', 'FATALITIES'), ('10-year-old', 'AGE')]
+Annotated entities: [('Three', 'FATALITIES'), ('10-year-old', 'AGE'), ('boy', 'GENDER')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: Five persons were killed and 19 others injured in two separate accidents in Dausa, Bharatpur and Bikaner districts on Friday
+Predicted entities: [('Five', 'FATALITIES'), ('19', 'INJURED')]
+Annotated entities: [('Five', 'FATALITIES'), ('19', 'INJURED')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three people died early Sunday morning after a speeding car rammed a parked autorickshaw outside gate number 2 at AIIMS
+Predicted entities: [('Three', 'FATALITIES'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('autorickshaw', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('morning', 'TIME'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('autorickshaw', 'VEHICLE TYPE')]
+Accuracy: 0.8
+Precision: 1.0
+Recall: 0.8
+F1-score: 0.888888888888889
+---------------
+Text: Three members of a family were among four people killed on Monday after the car in which they were travelling went out of control and hit a container truck near Thirumangalam in Madurai district 
+Predicted entities: [('Three', 'FATALITIES'), ('four', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('out of control', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.4
+Precision: 0.6666666666666666
+Recall: 0.5
+F1-score: 0.5714285714285715
+---------------
+Text: Even as the public anger against speed demons snuffing out innocent lives on roads continues to rage, a man who was allegedly drunk left five people severely injured by crashing his car into three two-wheelers in the BRTS track on a busy road in the Kapodra area on Sunday night
+Predicted entities: [('man', 'GENDER'), ('drunk', 'REASON'), ('five', 'INJURED'), ('car', 'VEHICLE TYPE'), ('two-wheelers', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('drunk', 'REASON'), ('five', 'INJURED'), ('car', 'VEHICLE TYPE'), ('two-wheelers', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: Four people of a family were on Sunday killed when their car crashed into a stationary pickup vehicle on Pilibhit-Sitapur highway in Uttar Pradesh , police said
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('pickup vehicle', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('pickup', 'VEHICLE TYPE')]
+Accuracy: 0.25
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-score: 0.4
+---------------
+Text: A 28-year-old woman was killed and five of her relatives, including two kids, sustained injuries after their car hit a median following a tyre burst on Saturday on Mysuru Road near Ramanagara
+Predicted entities: [('28-year-old', 'AGE'), ('woman', 'GENDER'), ('five', 'INJURED'), ('car', 'VEHICLE TYPE'), ('tyre burst', 'REASON')]
+Annotated entities: [('28-year-old', 'AGE'), ('woman', 'GENDER'), ('five', 'INJURED'), ('car', 'VEHICLE TYPE'), ('tyre burst', 'REASON')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two persons have lost their lives in separate road accidents in the city in the last two days
+Predicted entities: [('Two', 'FATALITIES')]
+Annotated entities: [('Two', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 14-year-old boy from Kalyan died after the car in which he was travelling with his family fell off a bridge near Malshej ghat, near Kalyan, in Thane district, on Sunday
+Predicted entities: [('14-year-old', 'AGE'), ('boy', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('14-year-old', 'AGE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-score: 0.8
+---------------
+Text: Two persons were killed and one injured after the utility vehicle they were travelling in fell into a deep gorge near Chharba village in Vikasnagar block of Dehradun district on Monday morning
+Predicted entities: [('Two', 'FATALITIES'), ('one', 'INJURED'), ('morning', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('one', 'INJURED'), ('utility', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A case has been registered against the assistant sub-inspector (ASI) of Delhi police after a car he was travelling rammed into six vehicles in Delhi's Dwarka Mor area on last Tuesday night
+Predicted entities: [('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Seven kanwariyas, three from Haryana's Mahendergarh district, two from Kaithal district, and one from Jind district and one from Punjab's Ludhiana district, were killed in three accidents on Friday
+Predicted entities: [('Seven', 'FATALITIES')]
+Annotated entities: [('Seven', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Four people, including a six-year-old girl, were killed in a road accident in the Palia area of Lakhimpur Kheri district on Thursday afternoon, police said
+Predicted entities: [('Four', 'FATALITIES'), ('six-year-old', 'AGE'), ('girl', 'GENDER'), ('afternoon', 'TIME')]
+Annotated entities: [('Four', 'FATALITIES'), ('a six-year-old', 'AGE'), ('girl', 'GENDER'), ('afternoon', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: Two men, including a businessman, died and three people were injured after their car rammed into a stationary truck in Swaroop Nagar in Outer-North district on Sunday morning
+Predicted entities: [('Two', 'FATALITIES'), ('men', 'GENDER'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: A 50-year-old assistant review officer died in a road accident which took place in Lucknows Hussainganj police station area on Tuesday afternoon
+Predicted entities: [('50-year-old', 'AGE'), ('afternoon', 'TIME')]
+Annotated entities: [('50-year-old', 'AGE'), ('afternoon', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 30-year-old Delhi resident was killed and her husband was injured after a truck allegedly rammed into their car near Farrukhnagar toll plaza, police said on Friday
+Predicted entities: [('30-year-old', 'AGE'), ('her', 'GENDER'), ('husband', 'GENDER'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('30-year-old', 'AGE'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6
+Precision: 0.6
+Recall: 1.0
+F1-score: 0.7499999999999999
+---------------
+Text: A 49-year-old man was killed in an accident after his bike collided with a mini-truck near Kakkanad on Tuesday
+Predicted entities: [('49-year-old', 'AGE'), ('man', 'GENDER'), ('bike', 'VEHICLE TYPE'), ('mini-truck', 'VEHICLE TYPE')]
+Annotated entities: [('49-year-old', 'AGE'), ('bike', 'VEHICLE TYPE'), ('mini-truck', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 0.75
+Recall: 1.0
+F1-score: 0.8571428571428571
+---------------
+Text: A 40-year-old man who had stepped out of his car to check if he and his friends were moving in the right direction was mowed down by an SUV on the Delhi-Mumbai expressway early on Sunday
+Predicted entities: [('40-year-old', 'AGE'), ('man', 'GENDER'), ('SUV', 'VEHICLE TYPE')]
+Annotated entities: [('40-year-old', 'AGE'), ('car', 'VEHICLE TYPE'), ('SUV', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: An accident claimed the life of a 15-year-old boy in Sargasan on Tuesday afternoon
+Predicted entities: [('15-year-old', 'AGE'), ('boy', 'GENDER'), ('afternoon', 'TIME')]
+Annotated entities: [('15-year-old', 'AGE'), ('afternoon', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-score: 0.8
+---------------
+Text: Four people, including a cleric (imam) were killed when a car they were travelling in skidded off the road and rolled into a gorge on the Jammu-Srinagar national highway in Udhampur district, on Monday
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two people died while four sustained injuries after an SUV rammed into a road-roller moving on the Pune-Bengaluru National Highway near Ghunki phata in Kolhapur district on Saturday morning
+Predicted entities: [('Two', 'FATALITIES'), ('four', 'INJURED'), ('SUV', 'VEHICLE TYPE'), ('road-roller', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('four', 'INJURED'), ('morning', 'TIME')]
+Accuracy: 0.6
+Precision: 0.6
+Recall: 1.0
+F1-score: 0.7499999999999999
+---------------
+Text: The video of a girl student being tossed into the air and falling 15 feet away after being hit by a speeding Jaguar car in Raichuru has gone viral
+Predicted entities: [('girl', 'GENDER'), ('speeding', 'REASON'), ('Jaguar car in', 'VEHICLE TYPE')]
+Annotated entities: [('girl', 'GENDER'), ('speeding', 'REASON'), ('Jaguar car', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: An unidentified man, around 40, years old died after he was knocked down by an allegedly speeding car near Thane’s Upvan area late on Wednesday
+Predicted entities: [('man', 'GENDER'), ('40', 'AGE'), ('speeding', 'REASON')]
+Annotated entities: [('man', 'GENDER'), ('40', 'AGE'), ('speeding', 'REASON'), ('late', 'TIME')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: Five people were killed and 43 persons were injured in a road accident involving a mofussil bus of Tamil Nadu State Transport Corporation (TNSTC) and a car on the Trichy-Dindigul national highway (NH) near Manapparai in Trichy district on Sunday evening
+Predicted entities: [('Five', 'FATALITIES'), ('43', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('evening', 'TIME')]
+Annotated entities: [('Five', 'FATALITIES'), ('43', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('evening', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 19-year-old youth was killed and another injured after a speeding car allegedly rammed their motorcycle on Sohna Road
+Predicted entities: [('19-year-old', 'AGE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('motorcycle', 'VEHICLE TYPE')]
+Annotated entities: [('19-year-old', 'AGE'), ('speeding', 'REASON')]
+Accuracy: 0.5
+Precision: 0.5
+Recall: 1.0
+F1-score: 0.6666666666666666
+---------------
+Text: Three days after a man hit a woman while driving his car and sped away, the police arrested Jay Patel , a resident of Vadsar area, after a video of the accident went viral
+Predicted entities: [('man', 'GENDER'), ('woman', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('man', 'GENDER'), ('woman', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: One of the Tamil Nadu tourists involved in the car accident at Calangute on Saturday morning died at Goa Medical College, Bambolim, on Sunday
+Predicted entities: [('One', 'FATALITIES'), ('morning', 'TIME')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.3333333333333333
+Precision: 0.5
+Recall: 0.5
+F1-score: 0.5
+---------------
+Text: A 31-year-old man was killed and four others were injured after their car was hit by an unidentified vehicle on the Jaipur-Agra highway under Bassi police station area of Jaipur Sunday morning
+Predicted entities: [('31-year-old', 'AGE'), ('man', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('31-year-old', 'AGE'), ('man', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two persons died in separate hit-and-run accidents in 24 hours ending on Monday in Rajkot
+Predicted entities: [('Two', 'FATALITIES'), ('hit-and-run', 'REASON')]
+Annotated entities: [('Two', 'FATALITIES'), ('hit-and-run', 'REASON')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A dentist returning to Dausa from Jaipur was killed and his colleague was seriously injured when their car rammed into a tractor carrying iron rods near Transport Nagar here in the intervening night of Sunday and Monday
+Predicted entities: [('car', 'VEHICLE TYPE'), ('tractor', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('tractor', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two people were killed and three others sustained injuries after their car lost balance and fell into a gorge on Delhi-Lucknow national highway on Saturday
+Predicted entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: At least six persons died and one sustained injuries in a ghastly road accident reported near Srikalahasti in the district on Sunday
+Predicted entities: [('six', 'FATALITIES'), ('one', 'INJURED')]
+Annotated entities: [('six', 'FATALITIES'), ('one', 'INJURED')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Within a span of 24 hours, four persons were killed, two others were injured while several vehicles were damaged in two separate road accidents in Shimla district
+Predicted entities: [('four', 'FATALITIES'), ('two', 'INJURED')]
+Annotated entities: [('four', 'FATALITIES'), ('two', 'INJURED')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three men were killed after their bike on which they were travelling collided head-on with a car in the Kakopathar area of Tinsukia district on Saturday night
+Predicted entities: [('Three', 'FATALITIES'), ('men', 'GENDER'), ('bike', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('bike', 'VEHICLE TYPE'), ('head-on', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 0.8
+Recall: 0.8
+F1-score: 0.8000000000000002
+---------------
+Text: Five persons, including four of the same family, were killed after their car plunged into a swollen canal in Uttar Pradesh's Etah district on Monday
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 25-year-old man who stepped out of his car parked on NH-9 died after a truck crashed into the vehicle from behind early on Sunday
+Predicted entities: [('25-year-old', 'AGE'), ('man', 'GENDER'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('25-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('early', 'TIME')]
+Accuracy: 0.6
+Precision: 1.0
+Recall: 0.6
+F1-score: 0.7499999999999999
+---------------
+Text: Five persons died on the spot and eight others received severe injuries in a road accident in the early hours of Saturday at Madiki village of Alamuru mandal in Konaseema district
+Predicted entities: [('Five', 'FATALITIES'), ('eight', 'INJURED'), ('early', 'TIME')]
+Annotated entities: [('Five', 'FATALITIES'), ('eight', 'INJURED'), ('early', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two people were killed in a road accident , near the Dhola-Sadiya bridge , in Tinsukia on Wednesday
+Predicted entities: [('Two', 'FATALITIES')]
+Annotated entities: [('Two', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Four persons returning from a funeral were killed in an accident on the Samruddhi expressway in Aurangabad district on Wednesday, an official said
+Predicted entities: [('Four', 'FATALITIES')]
+Annotated entities: [('Four', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Four people were killed and four others sustained injuries in two separate road accidents in Thanjavur and Pudukottai on Wednesday
+Predicted entities: [('Four', 'FATALITIES'), ('four', 'INJURED')]
+Annotated entities: [('Four', 'FATALITIES'), ('four', 'INJURED')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A pedestrian died while another sustained severe injuries after being mowed down by a car on Alagappa Road in Kilpauk on Wednesday
+Predicted entities: [('mowed down', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('mowed', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.3333333333333333
+Precision: 0.5
+Recall: 0.5
+F1-score: 0.5
+---------------
+Text: Two people were killed while four others were injured after a speeding car crashed into another stationary car on the Yamuna Expressway in UP’s Mathura
+Predicted entities: [('Two', 'FATALITIES'), ('four', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('four', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Four members of a family, including two women, died while another member was severely injured when the car they were travelling in skidded off NH-315 and crashed into a tree in Assam ’s Tinsukia district early Friday
+Predicted entities: [('Four', 'FATALITIES'), ('women', 'GENDER'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('early', 'TIME')]
+Annotated entities: [('Four', 'FATALITIES'), ('women', 'GENDER'), ('car', 'VEHICLE TYPE'), ('skidded', 'REASON'), ('early', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 0.8
+Recall: 0.8
+F1-score: 0.8000000000000002
+---------------
+Text: A 19-year-old BTech student has been arrested on charges of ramming his car into an auto while in an inebriated condition, killing its driver on the spot, near Devanahalli late on Wednesday night
+Predicted entities: [('19-year-old', 'AGE'), ('car', 'VEHICLE TYPE'), ('inebriated', 'REASON'), ('night', 'TIME')]
+Annotated entities: [('19-year-old', 'AGE'), ('car', 'VEHICLE TYPE'), ('auto', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: At least three people were killed while two others suffered injuries in a road mishap reported near Yerpedu in Tirupati district early on Thursday morning
+Predicted entities: [('three', 'FATALITIES'), ('two', 'INJURED'), ('morning', 'TIME')]
+Annotated entities: [('three', 'FATALITIES'), ('two', 'INJURED'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: In a futile attempt to flee from a police vehicle, a murder accused grabbed the driver and pulled on the steering wheel on Monday
+Predicted entities: []
+Annotated entities: [('pulled', 'REASON'), ('steering', 'REASON'), ('wheel', 'REASON')]
+Accuracy: 0.0
+Precision: 0
+Recall: 0.0
+F1-score: 0
+---------------
+Text: Five members of a family, including three children, were killed after a container truck coming from the wrong side of the road rammed into their car in Pune district of Maharashtra early on Wednesday, police said
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('three', 'FATALITIES'), ('wrong side', 'REASON'), ('car', 'VEHICLE TYPE'), ('early', 'TIME')]
+Accuracy: 0.2
+Precision: 0.5
+Recall: 0.25
+F1-score: 0.3333333333333333
+---------------
+Text: Two women and a man died, and four other people were injured, when a Bolero SUV car they were travelling in lost control and overturned in Binjrad police station area of Barmer district on Monday
+Predicted entities: [('Two', 'FATALITIES'), ('women', 'GENDER'), ('man', 'GENDER'), ('four', 'INJURED'), ('SUV', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('women', 'GENDER'), ('man', 'GENDER'), ('four', 'INJURED'), ('Bolero', 'VEHICLE TYPE'), ('SUV', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('lost control', 'REASON')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A 22-year-old bank cashier died after the bike he was riding was hit by a car in Vivek Vihar in Shahdara district on Wednesday
+Predicted entities: [('22-year-old', 'AGE'), ('bike', 'VEHICLE TYPE'), ('he', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('22-year-old', 'AGE'), ('bike', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 0.75
+Recall: 1.0
+F1-score: 0.8571428571428571
+---------------
+Text: A 42-year-old bank manager died and four people, including three from his family and the driver, were injured after their car rammed into a stationary mini-truck from behind on NH-9 near Pandav Nagar on Sunday
+Predicted entities: [('42-year-old', 'AGE'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('mini-truck', 'VEHICLE TYPE')]
+Annotated entities: [('42-year-old', 'AGE'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('mini-truck', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Eight persons, two of them kids, were injured in two separate accidents on the Yamuna Expressway early on Monday as dense fog cut down visibility to a few metres on the high-speed corridor
+Predicted entities: [('Eight', 'INJURED'), ('early', 'TIME'), ('fog', 'REASON')]
+Annotated entities: [('Eight', 'INJURED'), ('early', 'TIME'), ('fog', 'REASON')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 45-year-old woman who worked at an MNC in DLF 5 died in a road accident near Westend Heights on Tuesday night when the Rapido bike she was on was hit by a car
+Predicted entities: [('45-year-old', 'AGE'), ('woman', 'GENDER'), ('night', 'TIME'), ('Rapido', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE'), ('she', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('45-year-old', 'AGE'), ('night', 'TIME'), ('bike', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.5714285714285714
+Precision: 0.5714285714285714
+Recall: 1.0
+F1-score: 0.7272727272727273
+---------------
+Text: A 31-year-old woman from Kalyan was killed after her car crashed into the metal railing on the median on the Mumbai-Pune expressway near Khopoli exit around 12 noon Saturday
+Predicted entities: [('31-year-old', 'AGE'), ('woman', 'GENDER'), ('car', 'VEHICLE TYPE'), ('railing', 'REASON')]
+Annotated entities: [('31-year-old', 'AGE'), ('car', 'VEHICLE TYPE'), ('noon', 'TIME')]
+Accuracy: 0.4
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-score: 0.5714285714285715
+---------------
+Text: In a double tragedy, a mother and son died in accidents barely 12 hours apart in Madhya Pradesh
+Predicted entities: [('mother', 'GENDER'), ('son', 'GENDER')]
+Annotated entities: [('mother', 'GENDER'), ('son', 'GENDER')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 32-year-old motorcyclist was killed when he rammed into a stationary dumper parked in the middle of the highway on LBS Marg in Mulund on Saturday
+Predicted entities: [('32-year-old', 'AGE')]
+Annotated entities: [('32-year-old', 'AGE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two people were killed in separate incidents at Thiruvottiyur and Thirumullaivoyal 
+Predicted entities: [('Two', 'FATALITIES')]
+Annotated entities: [('Two', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three employees of a top Indian IT firm and a driver were severely injured when the office car they were travelling in rammed in to a stationary sand laden truck
+Predicted entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: Two people, including a 17-year-old girl, died in two separate road accidents in the district on Tuesday
+Predicted entities: [('Two', 'FATALITIES'), ('17-year-old', 'AGE'), ('girl', 'GENDER')]
+Annotated entities: [('Two', 'FATALITIES'), ('17-year-old', 'AGE'), ('girl', 'GENDER')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A woman and her grandson were killed in a collision between a pick-up vehicle and a car near the light point of Chatt in the early hours of Saturday
+Predicted entities: [('woman', 'GENDER'), ('grandson', 'GENDER'), ('pick-up vehicle', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('early', 'TIME')]
+Annotated entities: [('woman', 'GENDER'), ('grandson', 'GENDER'), ('collision', 'REASON'), ('pick-up', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('early', 'TIME')]
+Accuracy: 0.5714285714285714
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-score: 0.7272727272727272
+---------------
+Text: Four people, including three members of a family from Delhi, were killed when the car in which they were travelling crashed into a tree amid dense fog in Uttar Pradesh's Kasganj district on Saturday evening
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('fog', 'REASON'), ('evening', 'TIME')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('fog', 'REASON'), ('evening', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A man was killed in an accident at Perumbavoor after the car he was travelling in rammed a truck that was parked along the road on Wednesday morning
+Predicted entities: [('man', 'GENDER'), ('car', 'VEHICLE TYPE'), ('he', 'GENDER'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('man', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: Three bikers were killed in two accidents in Nashik city and Chandwad on Sunday
+Predicted entities: [('Three', 'FATALITIES')]
+Annotated entities: [('Three', 'FATALITIES'), ('bikers', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: Two friends, who were sitting on a footpath, were crushed to death by a speeding car that was driven by a 16-year-old boy in Jetpur town of Rajkot district
+Predicted entities: [('Two', 'FATALITIES'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('16-year-old', 'AGE'), ('boy', 'GENDER')]
+Annotated entities: [('Two', 'FATALITIES'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('16-year-old', 'AGE')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: A 25-year-old man died while two others were injured when their speeding car went out of control and crashed into a tree in the Beta-2 area of Greater Noida on Monday morning
+Predicted entities: [('25-year-old', 'AGE'), ('man', 'GENDER'), ('two', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('morning', 'TIME')]
+Annotated entities: [('25-year-old', 'AGE'), ('two', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.7142857142857143
+Precision: 0.7142857142857143
+Recall: 1.0
+F1-score: 0.8333333333333333
+---------------
+Text: Five people were killed and another was injured when a speeding car crashed into two stationary trucks in the Sadar police station area of Tonk district , police said on Monday
+Predicted entities: [('Five', 'FATALITIES'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('trucks', 'VEHICLE TYPE')]
+Annotated entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('trucks', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 0.75
+Recall: 1.0
+F1-score: 0.8571428571428571
+---------------
+Text: A constable of the crime branch team of Jankipuram police in Lucknow suffered injuries after a car-borne youth hit him to avoid car checking on Sunday
+Predicted entities: [('car', 'VEHICLE TYPE')]
+Annotated entities: [('car-borne', 'VEHICLE TYPE'), ('avoid car checking', 'REASON')]
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1-score: 0
+---------------
+Text: Samajwadi Party leader Devendra Singh Yadav from Uttar Pradesh had a narrow escape after his car was hit by a truck in Mainpuri on Sunday night
+Predicted entities: [('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two young students hailing from Hyderabad were killed in a road accident in Saudi Arabia ’s Dammam on June 13
+Predicted entities: [('Two', 'FATALITIES')]
+Annotated entities: [('Two', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three people were killed and two others injured when their car lost balance, overturned and fell into a roadside ditch after hitting a truck in Jaunpur district, police said on Wednesday
+Predicted entities: [('Three', 'FATALITIES'), ('two', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('two', 'INJURED'), ('lost balance', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: An autorickshaw driver and passenger died and two others were grievously injured in a hit-and-run at Goregaon (east) early on Thursday
+Predicted entities: [('autorickshaw', 'VEHICLE TYPE'), ('two', 'INJURED'), ('hit-and-run', 'REASON')]
+Annotated entities: [('autorickshaw', 'VEHICLE TYPE'), ('two', 'INJURED'), ('hit-and-run', 'REASON'), ('early', 'TIME')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: Two policemen, who were on night patrolling duty in Dehlon area on Monday, sustained injuries after an unidentified speeding car hit their bike
+Predicted entities: [('Two', 'INJURED'), ('policemen', 'GENDER'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: In a freak mishap, a container truck, a loaded trailer and a car collided near Gaikmukh and led to a major traffic jam on the Mumbai-bound lane of Ghodbunder Road and Ahmedabad highway on Tuesday morning, officials informed
+Predicted entities: [('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('truck', 'VEHICLE TYPE'), ('trailer', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: Three persons were injured in a car accident at the PVNR Expressway on Sunday afternoon
+Predicted entities: [('Three', 'INJURED'), ('afternoon', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Accuracy: 0.25
+Precision: 0.5
+Recall: 0.3333333333333333
+F1-score: 0.4
+---------------
+Text: Two motorcycle riders were killed in two different road accidents in Mohali
+Predicted entities: [('Two', 'FATALITIES'), ('motorcycle', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('motorcycle', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Thane-bound traffic on Ghodbunder road was affected for nearly two hours on Tuesday morning after an accident involving a truck and a four wheeler
+Predicted entities: [('morning', 'TIME'), ('truck', 'VEHICLE TYPE'), ('four wheeler', 'VEHICLE TYPE')]
+Annotated entities: [('morning', 'TIME'), ('truck', 'VEHICLE TYPE'), ('four wheeler', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 71-year-old man died in a road accident when a speeding car hit his motorcycle
+Predicted entities: [('71-year-old', 'AGE'), ('man', 'GENDER'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('motorcycle', 'VEHICLE TYPE')]
+Annotated entities: [('71-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6
+Precision: 0.6
+Recall: 1.0
+F1-score: 0.7499999999999999
+---------------
+Text: A 80-year-old man and his sons were killed after their car was hit by an unidentified vehicle in Narsinghpur district on Sunday night
+Predicted entities: [('80-year-old', 'AGE'), ('man', 'GENDER'), ('sons', 'GENDER'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('80-year-old', 'AGE'), ('man', 'GENDER'), ('sons', 'GENDER'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A woman and her two minor sons were killed while three people sustained injuries when a bus rammed into a car and a minibus in Bhilwara district, said police on Monday
+Predicted entities: [('woman', 'GENDER'), ('sons', 'GENDER'), ('three', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('minibus', 'VEHICLE TYPE')]
+Annotated entities: [('woman', 'GENDER'), ('sons', 'GENDER'), ('three', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: In a drunk driving incident near Breach Candy on Monday, Raunak Ganatra, 26, rammed into a taxi driver walking out to grab a bite and after losing further control, slammed into two taxis and a brown sedan, parked by the road
+Predicted entities: [('drunk', 'REASON'), ('26', 'AGE'), ('taxis', 'VEHICLE TYPE'), ('sedan', 'VEHICLE TYPE')]
+Annotated entities: [('drunk', 'REASON'), ('26', 'AGE'), ('taxis', 'VEHICLE TYPE'), ('sedan', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: At least two women were killed and four others sustained serious injuries in a collision between a car and a truck in Ghazipur on Saturday
+Predicted entities: [('two', 'FATALITIES'), ('women', 'GENDER'), ('four', 'INJURED'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('two', 'FATALITIES'), ('women', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.8
+Precision: 1.0
+Recall: 0.8
+F1-score: 0.888888888888889
+---------------
+Text: A youth died and another was injured after colliding with the vehicle of a serving colonel in at Ridge Road, under the Gorabazar police station, in Jabalpur on Saturday
+Predicted entities: []
+Annotated entities: [('youth', 'AGE'), ('colliding', 'REASON')]
+Accuracy: 0.0
+Precision: 0
+Recall: 0.0
+F1-score: 0
+---------------
+Text: One person was killed and 11 injured in an accident involving two tractor trolleys , a passenger bus and a car at Bheru ghat in Simrol on late Monday night
+Predicted entities: [('One', 'FATALITIES'), ('11', 'INJURED'), ('tractor trolleys ,', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('One', 'FATALITIES'), ('11', 'INJURED'), ('tractor', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('late', 'TIME'), ('night', 'TIME')]
+Accuracy: 0.625
+Precision: 0.8333333333333334
+Recall: 0.7142857142857143
+F1-score: 0.7692307692307692
+---------------
+Text: Three persons, including two minors died and three others injured after a speeding car in which they were travelling rammed into a roadside electric pole on the Maurawan-Gurbaksh Ganj road in Unnao district on Saturday night
+Predicted entities: [('Three', 'FATALITIES'), ('three', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('minors', 'AGE'), ('three', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-score: 0.9090909090909091
+---------------
+Text: Three persons, including two women, were killed when their car hurtled off a bridge in Ghatabillod area of Dhar district on Tuesday evening
+Predicted entities: [('Three', 'FATALITIES'), ('women', 'GENDER'), ('car', 'VEHICLE TYPE'), ('hurtled', 'REASON'), ('evening', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('women', 'GENDER'), ('hurtled', 'REASON'), ('evening', 'TIME')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: Four members of a family were killed when their car overturned due to tyre burst at Mupkal in Telangana's Nizamabad district on Wednesday
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('tyre burst', 'REASON')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('tyre burst', 'REASON')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two Jammu University students died and as many were injured on Monday when their car rolled down a deep gorge after being hit by a truck on the Jammu-Srinagar national highway in Ramban district, officials said
+Predicted entities: [('Two', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A Class 2 student died after a car on the wrong side of a road hit a scooter that her father was driving to drop her to school on Thursday morning in Sector 22
+Predicted entities: [('car', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Class 2', 'AGE'), ('car', 'VEHICLE TYPE'), ('wrong side', 'REASON'), ('scooter', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.6
+Precision: 1.0
+Recall: 0.6
+F1-score: 0.7499999999999999
+---------------
+Text: A Class II student died after a car on the wrong side of a road hit a scooter that her father was driving to drop her to school on Thursday morning in Sector 22
+Predicted entities: [('car', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Class II', 'AGE'), ('car', 'VEHICLE TYPE'), ('wrong side', 'REASON'), ('scooter', 'VEHICLE TYPE'), ('her', 'GENDER'), ('morning', 'TIME')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: A 56-year-old woman from Delhi died and four of her family members suffered injuries when the Swift Dzire in which they were travelling collided head-on with a car being driven on the wrong side of the Dwarka Expressway
+Predicted entities: [('56-year-old', 'AGE'), ('woman', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('56-year-old', 'AGE'), ('woman', 'GENDER'), ('four', 'INJURED'), ('Swift Dzire', 'VEHICLE TYPE'), ('collided', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: Four people, including a seven-year-old girl , were killed in two accidents since Thursday
+Predicted entities: [('Four', 'FATALITIES'), ('seven-year-old', 'AGE'), ('girl', 'GENDER')]
+Annotated entities: [('Four', 'FATALITIES'), ('seven-year-old', 'AGE'), ('girl', 'GENDER')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A woman died and three others were severely injured after a speeding car rammed an APSRTC bus that was stationed at a bus stand at Jaggaiahpet in NTR district on Sunday morning
+Predicted entities: [('woman', 'GENDER'), ('three', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('woman', 'GENDER'), ('three', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 30-year-old street vendor was killed while another was seriously injured when a speeding car rammed into them in Shalimar Bagh area of northwest Delhi, police said on Tuesday
+Predicted entities: [('30-year-old', 'AGE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('30-year-old', 'AGE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two brothers travelling on a motorcycle died in a road accident on Chennai’s Kamarajar Salai on Sunday
+Predicted entities: [('Two', 'FATALITIES'), ('brothers', 'GENDER'), ('motorcycle', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('brothers', 'GENDER'), ('motorcycle', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A youth and his elder brother were killed when the motorcycle they were riding collided head on with a car on Saturday night near Hatli village of Chamba district
+Predicted entities: [('brother', 'GENDER'), ('motorcycle', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('brother', 'GENDER'), ('motorcycle', 'VEHICLE TYPE'), ('collided', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.8
+Precision: 1.0
+Recall: 0.8
+F1-score: 0.888888888888889
+---------------
+Text: A woman sub-inspector of Assam Police , who was in the news last year for arresting her fiance months before wedding for allegedly duping huge funds from two contractors in Majuli, was killed in a road accident under mysterious circumstances in Nagaon district after her car allegedly collided with a truck on NH-37 early on Tuesday, the police said
+Predicted entities: [('woman', 'GENDER'), ('her', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('early', 'TIME')]
+Annotated entities: [('woman', 'GENDER'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.6
+Recall: 0.75
+F1-score: 0.6666666666666665
+---------------
+Text: A 47-year-old policeman attached with the Pothanikkad police died in a vehicle accident on Saturday
+Predicted entities: [('47-year-old', 'AGE')]
+Annotated entities: [('47-year-old', 'AGE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 19-year-old student driving a Mercedes, rammed into the rear-end of another car on Bandra-Worli sea link on Sunday
+Predicted entities: [('19-year-old', 'AGE'), ('Mercedes', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('19-year-old', 'AGE'), ('rammed', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: Four passengers were killed when a car collided with a truck on National Highway-20 near Badapasi village in Keonjhar district on Thursday
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: Four members of a family were killed when their car rammed into a dumper truck on a state highway in Gujarat 's Bhavnagar district, police said on Sunday
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON'), ('dumper truck', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON')]
+Accuracy: 0.75
+Precision: 0.75
+Recall: 1.0
+F1-score: 0.8571428571428571
+---------------
+Text: Police have seized the BMW car that crashed into a cyclist - a Gurgaon-based businessman who was declared dead in hospital - on the Delhi-Gurgaon expressway
+Predicted entities: [('BMW', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('cyclist', 'VEHICLE TYPE')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('crashed', 'REASON')]
+Accuracy: 0.25
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-score: 0.4
+---------------
+Text: Three members of a family died when the SUV they were travelling in overturned near the Mahmoouda Bridge under Khudaganj police station area in Nalanda on Monday morning
+Predicted entities: [('Three', 'FATALITIES'), ('SUV', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('SUV', 'VEHICLE TYPE'), ('overturned', 'REASON'), ('morning', 'TIME')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A 50-year-old man died on Sunday after a BMW car allegedly hit his sport bicycle on Mahipalpur flyover in southwest Delhi, police said
+Predicted entities: [('50-year-old', 'AGE'), ('man', 'GENDER'), ('BMW', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('sport bicycle', 'VEHICLE TYPE')]
+Annotated entities: [('50-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6
+Precision: 0.6
+Recall: 1.0
+F1-score: 0.7499999999999999
+---------------
+Text: A 48-year-old woman and her 28-year-old son were killed in a car accident at Sandhiyur here on Friday morning
+Predicted entities: [('48-year-old', 'AGE'), ('woman', 'GENDER'), ('28-year-old', 'AGE'), ('son', 'GENDER'), ('morning', 'TIME')]
+Annotated entities: [('48-year-old', 'AGE'), ('woman', 'GENDER'), ('28-year-old', 'AGE'), ('son', 'GENDER'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-score: 0.9090909090909091
+---------------
+Text: A first-year undergraduate student from St Xavier's College died and three others — college students, two from the same institution — were injured in a car crash on Gurusaday Road in south Kolkata very early on Monday
+Predicted entities: [('three', 'INJURED'), ('early', 'TIME')]
+Annotated entities: [('three others', 'FATALITIES'), ('two', 'INJURED'), ('car', 'VEHICLE TYPE'), ('crash', 'REASON')]
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1-score: 0
+---------------
+Text: A 49-year-old pedestrian died after being hit by a BEST bus which lost control and collided with another bus at Badhwar park in Mumbai's Cuffe Parade on Saturday
+Predicted entities: [('49-year-old', 'AGE'), ('bus', 'VEHICLE TYPE')]
+Annotated entities: [('49-year-old', 'AGE'), ('bus', 'VEHICLE TYPE'), ('collided', 'REASON')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: Three persons, including a driver, were killed on the spot when their car collided with an oncoming SUV on Bengaluru-Mysuru Expressway at Gejjalagere village in Maddur taluk on Tuesday
+Predicted entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('SUV', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('SUV', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: Four college students died after the car they were travelling in hit a stationary truck at Gahunje village on the Pune-Mumbai Expressway around 3
+Predicted entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three people, including two sisters and a food delivery executive , died and at least three people were injured after a car allegedly rammed the iron railings on the Vikas Marg median in east Delhi on Sunday
+Predicted entities: [('Three', 'FATALITIES'), ('sisters', 'GENDER'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: Unable to overcome the loss of their son, who was killed in a road accident recently, a husband-wife duo attempted to die by suicide by consuming poison at their house near Kanuvai Road on the outskirts of the city on Tuesday noon
+Predicted entities: [('son', 'GENDER'), ('noon', 'TIME')]
+Annotated entities: [('son', 'GENDER'), ('poison', 'REASON'), ('noon', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: A 42-year-old man from Koba and his 17-year-old daughter died after a speeding SUV hit their scooter near the Gujarat BJP headquarters, Kamalam, on Monday morning
+Predicted entities: [('42-year-old', 'AGE'), ('man', 'GENDER'), ('17-year-old', 'AGE'), ('daughter', 'GENDER'), ('speeding', 'REASON'), ('SUV', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('42-year-old', 'AGE'), ('man', 'GENDER'), ('17-year-old', 'AGE'), ('daughter', 'GENDER'), ('SUV', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.875
+Precision: 0.875
+Recall: 1.0
+F1-score: 0.9333333333333333
+---------------
+Text: One occupant of a car died on the spot after the car in which he was travelling collided head-on with a truck and landed 10m down in a gorge in the Karmal Ghat area near Gulem, Canacona, on Monday
+Predicted entities: [('One', 'FATALITIES'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('One', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: Three persons, including a five-year-old, were killed and four seriously injured after a four-wheeler in which they were travelling hit a tractor trolley from behind in Daloda area of Mandsaur on Thursday night
+Predicted entities: [('Three', 'FATALITIES'), ('five-year-old', 'AGE'), ('four', 'INJURED'), ('four-wheeler', 'VEHICLE TYPE'), ('tractor', 'VEHICLE TYPE'), ('trolley', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('four', 'INJURED'), ('four-wheeler', 'VEHICLE TYPE'), ('tractor', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.7142857142857143
+Precision: 0.7142857142857143
+Recall: 1.0
+F1-score: 0.8333333333333333
+---------------
+Text: Eight persons, six of them bikers, were injured in six bike accidents from Friday night to Saturday
+Predicted entities: [('Eight', 'INJURED'), ('bike', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('six', 'INJURED'), ('bike', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: A woman and her son were killed after the car they were travelling in fell into a deep gorge at Badethi-Banchora Road in Uttarkashi district on Wednesday morning
+Predicted entities: [('woman', 'GENDER'), ('son', 'GENDER'), ('morning', 'TIME')]
+Annotated entities: [('woman', 'GENDER'), ('son', 'GENDER'), ('car', 'VEHICLE TYPE'), ('gorge', 'REASON'), ('morning', 'TIME')]
+Accuracy: 0.6
+Precision: 1.0
+Recall: 0.6
+F1-score: 0.7499999999999999
+---------------
+Text: Three persons, including a two-year-old boy, were killed in an accident involving a scooter and a car at Elathur near Kozhikode early Wednesday morning
+Predicted entities: [('Three', 'FATALITIES'), ('two-year-old', 'AGE'), ('boy', 'GENDER'), ('scooter', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('two-year-old', 'AGE'), ('boy', 'GENDER'), ('scooter', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: One occupant of a car died on the spot after the car in which he was travelling collided head-on with a truck and landed 10m down in a gorge in the Karmal Ghat area near Gulem, Canacona, on Monday
+Predicted entities: [('One', 'FATALITIES'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('One', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: A woman in her 40s was killed and five others were injured in four separate accidents, all involving two-wheelers, in the city on Friday
+Predicted entities: [('woman', 'GENDER'), ('40s', 'AGE'), ('five', 'INJURED'), ('two-wheelers', 'VEHICLE TYPE')]
+Annotated entities: [('woman', 'GENDER'), ('40s', 'AGE'), ('five', 'INJURED'), ('two-wheelers', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Five students at an international school in New Town, all aged between five and seven years, received minor injuries when their pool car rammed a median divider near Karigori Bhavan in New Town around 7
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Five', 'INJURED'), ('five', 'AGE'), ('seven', 'AGE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.2
+Precision: 0.5
+Recall: 0.25
+F1-score: 0.3333333333333333
+---------------
+Text: Six people lost their lives when an auto-rickshaw collided with a speeding car in Agra , police said on Tuesday
+Predicted entities: [('Six', 'FATALITIES'), ('auto-rickshaw', 'VEHICLE TYPE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Six', 'FATALITIES'), ('auto-rickshaw', 'VEHICLE TYPE'), ('collided', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: The name Lucky proved to be really lucky for a one-and-a-half-year-old child who survived a near-fatal accident in Kalyanpur area on Tuesday night
+Predicted entities: [('one-and-a-half-year-old', 'AGE'), ('near-fatal', 'REASON'), ('night', 'TIME')]
+Annotated entities: [('one-and-a-half-year-old', 'AGE'), ('night', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-score: 0.8
+---------------
+Text: A 28-year-old biker was knocked down and killed by a car on Palm Beach Road in Navi Mumbai on Sunday, police said
+Predicted entities: [('28-year-old', 'AGE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('28-year-old', 'AGE'), ('knocked', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: A middle-aged couple and a 70-year-old man and his 25-year-old son were killed in two separate road accidents at Talera in Bundi and at Anta in Baran respectively on Sunday evening and Saturday night
+Predicted entities: [('middle-aged', 'AGE'), ('70-year-old', 'AGE'), ('man', 'GENDER'), ('25-year-old', 'AGE'), ('son', 'GENDER'), ('evening', 'TIME'), ('night', 'TIME')]
+Annotated entities: [('70-year-old', 'AGE'), ('25-year-old', 'AGE'), ('evening', 'TIME')]
+Accuracy: 0.42857142857142855
+Precision: 0.42857142857142855
+Recall: 1.0
+F1-score: 0.6
+---------------
+Text: Three employees of a top Indian IT firm and a driver were severely injured when the office car they were travelling in rammed in to a stationary sand laden truck
+Predicted entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: A pedestrian, who was hit by a car, succumbed to injuries at a private hospital here on Wednesday
+Predicted entities: [('car', 'VEHICLE TYPE')]
+Annotated entities: [('hit', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: Two persons died from electrocution , while two others were injured, after a Toyota Innova rammed into an electrical pole on the Mysuru-Mananthavady highway in the wee hours of Friday
+Predicted entities: [('Two', 'FATALITIES'), ('two', 'INJURED'), ('Toyota Innova rammed', 'VEHICLE TYPE'), ('wee', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('electrocution', 'REASON'), ('two', 'INJURED')]
+Accuracy: 0.4
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-score: 0.5714285714285715
+---------------
+Text: Six persons, including two school girls, were injured after a car being driven by a college student returning from a party rammed into an e-rickshaw in Sector 41 on Tuesday morning
+Predicted entities: [('Six', 'INJURED'), ('car', 'VEHICLE TYPE'), ('e-rickshaw', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Six persons', 'INJURED'), ('car', 'VEHICLE TYPE'), ('e-rickshaw', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: Six members of a family, including two minor girls, were killed and another was critically injured after the car in which they were travelling collided with a parked truck on National Highway-26 at Chuinbandh in Balangir district on Tuesday night
+Predicted entities: [('Six', 'FATALITIES'), ('girls', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('Six', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.6666666666666666
+Precision: 0.8
+Recall: 0.8
+F1-score: 0.8000000000000002
+---------------
+Text: A 31-year-old man sleeping inside a water ATM booth died after a car with four youths crashed into the kiosk around 1
+Predicted entities: [('31-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('31-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 48-year-old woman was killed while five others were injured after a speeding container truck collided with a car in which they were travelling on Monday morning near Singhpur intersection of Bithoor police station area of the district
+Predicted entities: [('48-year-old', 'AGE'), ('woman', 'GENDER'), ('five', 'INJURED'), ('speeding', 'REASON'), ('container truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('48-year-old', 'AGE'), ('woman', 'GENDER'), ('five', 'INJURED'), ('speeding', 'REASON'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.75
+Precision: 0.8571428571428571
+Recall: 0.8571428571428571
+F1-score: 0.8571428571428571
+---------------
+Text: The wife of Telangana Director-General of Police (CID) was killed and two others were injured when the car they were travelling in overturned in Rajasthan's Jaisalmer district on Monday, police said
+Predicted entities: [('wife', 'GENDER'), ('two', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('two', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 0.6666666666666666
+Recall: 1.0
+F1-score: 0.8
+---------------
+Text: A woman pilgrim from Himachal Pradesh was killed while four others suffered injuries when their car collided with another vehicle on Katra-Jammu road near Domail in Jammu district
+Predicted entities: [('woman', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('woman', 'GENDER'), ('four', 'INJURED'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A private luxury bus dashed a car in a bid to overtake it, killing the cab driver and his brother-in-law at Malad village on the Pune-Solapur highway
+Predicted entities: [('bus', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('bus', 'VEHICLE TYPE'), ('dashed', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: A minor boy was killed and two of his friends were injured when a speeding car rammed a group of children playing outside their houses at Kansalipeta here on Saturday
+Predicted entities: [('boy', 'GENDER'), ('two', 'INJURED'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('boy', 'GENDER'), ('two', 'INJURED'), ('rammed', 'VEHICLE TYPE')]
+Accuracy: 0.4
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-score: 0.5714285714285715
+---------------
+Text: Two persons were killed and three others were injured after their car collided with an over-speeding truck at Udaypur in Surajpur district in Surguja division early on Wednesday morning
+Predicted entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('collided', 'REASON'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 1.0
+Recall: 0.8333333333333334
+F1-score: 0.9090909090909091
+---------------
+Text: Two people were killed and three others sustained injuries as a car overturned after hitting a bridge here on Friday
+Predicted entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('three', 'INJURED'), ('car', 'VEHICLE TYPE'), ('overturned', 'REASON')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A 29-year-old security executive with a private airline died on the spot when a speeding cab rammed his motorbike near Chikkajala on Ballari Road on Monday
+Predicted entities: [('29-year-old', 'AGE'), ('speeding', 'REASON'), ('cab', 'VEHICLE TYPE'), ('motorbike', 'VEHICLE TYPE')]
+Annotated entities: [('29-year-old', 'AGE'), ('speeding', 'REASON'), ('cab', 'VEHICLE TYPE'), ('motorbike', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: G Ramesh, 36, died in an accident after he was hit by a car coming in the opposite direction at Kushaiguda on Saturday
+Predicted entities: [('36', 'AGE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('36', 'AGE'), ('hit', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: An autorickshaw driver died and a scooter rider's leg had to be amputated after a cluster scheme bus lost control and hit many vehicles in southeast Delhi's New Friends Colony on Wednesday
+Predicted entities: [('autorickshaw', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE')]
+Annotated entities: [('autorickshaw', 'VEHICLE TYPE'), ('scooter', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two woman techies died after being hit by a speeding car on the OMR in Chennai on Wednesday night
+Predicted entities: [('Two', 'FATALITIES'), ('woman', 'GENDER'), ('speeding', 'REASON'), ('night', 'TIME')]
+Annotated entities: [('Two', 'FATALITIES'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.6
+Precision: 0.75
+Recall: 0.75
+F1-score: 0.75
+---------------
+Text: Five persons were killed in two accidents on the ORR stretch on Monday
+Predicted entities: [('Five', 'FATALITIES')]
+Annotated entities: [('Five', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 36-year-old man was killed after his scooter was hit by a speeding car in west Delhi's Moti Nagar early on Sunday
+Predicted entities: [('36-year-old', 'AGE'), ('man', 'GENDER'), ('scooter', 'VEHICLE TYPE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('36-year-old', 'AGE'), ('man', 'GENDER'), ('scooter', 'VEHICLE TYPE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Three people were killed and several others injured in two separate road accidents in Jammu and Kashmir ’s Reasi district late on Saturday
+Predicted entities: [('Three', 'FATALITIES')]
+Annotated entities: [('Three', 'FATALITIES')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: An 18-year-old girl died while her two friends were injured in a road accident in outer Delhi's Paschim Vihar on Wednesday morning
+Predicted entities: [('18-year-old', 'AGE'), ('girl', 'GENDER'), ('her', 'GENDER'), ('two', 'INJURED'), ('morning', 'TIME')]
+Annotated entities: [('18-year-old', 'AGE'), ('girl', 'GENDER'), ('two', 'INJURED'), ('morning', 'TIME')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: Five people were killed after their car rammed into a truck parked on the roadside in Ahor area of Rajasthan's Jalore district, police said on Tuesday
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 13-year-old boy succumbed to his injuries on Tuesday after his cycle was hit by a car driven by a chartered accountant in south Delhi's Hauz Khas on Saturday
+Predicted entities: [('13-year-old', 'AGE'), ('boy', 'GENDER'), ('cycle', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('13-year-old', 'INJURED'), ('boy', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.4
+Precision: 0.5
+Recall: 0.6666666666666666
+F1-score: 0.5714285714285715
+---------------
+Text: Two closely-related youths were killed and six others injured when their Innova rammed into a peepal tree on the Eastern Express Highway in Vikhroli around 12
+Predicted entities: [('Two', 'FATALITIES'), ('six', 'INJURED'), ('tree', 'REASON')]
+Annotated entities: [('Two', 'FATALITIES'), ('six', 'INJURED'), ('rammed', 'REASON')]
+Accuracy: 0.5
+Precision: 0.6666666666666666
+Recall: 0.6666666666666666
+F1-score: 0.6666666666666666
+---------------
+Text: A 43-year-old autorickshaw driver was killed in a serial accident near Wonderla gate on Bengaluru-Mysuru Road on Tuesday morning
+Predicted entities: [('43-year-old', 'AGE'), ('autorickshaw', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('43-year-old', 'AGE'), ('autorickshaw', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Five people, including a mother-daughter duo, were killed in three separate accidents that occurred in Rudraprayag and Pithoragarh districts of Uttarakhand on Tuesday
+Predicted entities: [('Five', 'FATALITIES')]
+Annotated entities: [('Five people', 'FATALITIES'), ('mother-daughter', 'GENDER')]
+Accuracy: 0.0
+Precision: 0.0
+Recall: 0.0
+F1-score: 0
+---------------
+Text: An IT employee died and three others suffered injuries on Thurday night after their car rammed a median near Potheri in Chengalpet 
+Predicted entities: [('three', 'INJURED'), ('night', 'TIME'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('three', 'INJURED'), ('night', 'TIME'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A 74-year-old man was crushed to death and his 67-year-old wife seriously injured when they were caught between their gate and their SUV after the driver pressed the accelerator instead of the brakes by mistake at Chromepet on Saturday night
+Predicted entities: [('74-year-old', 'AGE'), ('man', 'GENDER'), ('67-year-old', 'AGE'), ('wife', 'GENDER'), ('SUV', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('74-year-old', 'AGE'), ('man', 'GENDER'), ('67-year-old', 'AGE'), ('SUV', 'VEHICLE TYPE'), ('night', 'TIME')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: Two assistant sub inspectors (ASIs) of police and a passerby were injured injuries after being hit by a car that overturned near Hilsa bypass on Thursday
+Predicted entities: [('Two', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'INJURED'), ('car', 'VEHICLE TYPE'), ('overturned', 'REASON')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: In a shocking incident, a car driver ran over a 35-year-old man and then volunteered to take him to hospital, but when the victim died on the way, he drove around for several hours before dumping the body in a canal
+Predicted entities: [('car', 'VEHICLE TYPE'), ('35-year-old', 'AGE'), ('man', 'GENDER')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('35-year-old', 'AGE'), ('man', 'GENDER')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A 27-year-old car mechanic died and two others were injured after a scooter and a bike collided head-on near Khandsa Chowk on Tuesday night
+Predicted entities: [('27-year-old', 'AGE'), ('two', 'INJURED'), ('scooter', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE'), ('night', 'TIME')]
+Annotated entities: [('27-year-old', 'AGE'), ('car mechanic', 'VEHICLE TYPE'), ('two', 'INJURED'), ('scooter', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE'), ('collided', 'REASON'), ('night', 'TIME')]
+Accuracy: 0.7142857142857143
+Precision: 1.0
+Recall: 0.7142857142857143
+F1-score: 0.8333333333333333
+---------------
+Text: A 25-year-old man died after his speeding car rammed into a stationary truck on Thursday morning in the Surajpur area of Greater Noida 
+Predicted entities: [('25-year-old', 'AGE'), ('man', 'GENDER'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('25-year-old', 'AGE'), ('man', 'GENDER'), ('car', 'VEHICLE TYPE'), ('rammed', 'REASON'), ('morning', 'TIME')]
+Accuracy: 0.5714285714285714
+Precision: 0.6666666666666666
+Recall: 0.8
+F1-score: 0.7272727272727272
+---------------
+Text: A couple and their daughter died when a speeding car rammed a two-wheeler they were travelling on near Kondalampatty in Salem city on Tuesday
+Predicted entities: [('daughter', 'GENDER'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('two-wheeler', 'VEHICLE TYPE')]
+Annotated entities: [('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('two-wheeler', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 0.75
+Recall: 1.0
+F1-score: 0.8571428571428571
+---------------
+Text: Eight people were injured — one of them seriously — after the car they were travelling in rammed into a tree on Elgin Road , Bhowanipore early on Friday
+Predicted entities: [('Eight', 'INJURED'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON')]
+Annotated entities: [('Eight', 'INJURED'), ('car', 'VEHICLE TYPE'), ('tree', 'REASON')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Four people were killed in a collision between a car and a truck here on Wednesday, police said
+Predicted entities: [('Four', 'FATALITIES'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('collision', 'REASON'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 1.0
+Recall: 0.5
+F1-score: 0.6666666666666666
+---------------
+Text: The Tambaram police have launched a search for a man who escaped from the Chromepet government hospital, where he was admitted by the police on Saturday night
+Predicted entities: [('man', 'GENDER'), ('night', 'TIME')]
+Annotated entities: [('man', 'GENDER'), ('night', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A school teacher riding a bike was killed on the spot, and three persons critically injure after the two-wheeler collided with a speeding car in Farasgaon of Kondagaon district on Sunday morning
+Predicted entities: [('bike', 'VEHICLE TYPE'), ('three', 'INJURED'), ('two-wheeler', 'VEHICLE TYPE'), ('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('bike', 'VEHICLE TYPE'), ('three', 'INJURED'), ('two-wheeler', 'VEHICLE TYPE'), ('collided', 'REASON'), ('car', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Accuracy: 0.7142857142857143
+Precision: 0.8333333333333334
+Recall: 0.8333333333333334
+F1-score: 0.8333333333333334
+---------------
+Text: Three persons, including a one-and-half year old girl, died after their car was hit by a lorry at Pinapaka on Friday afternoon
+Predicted entities: [('Three', 'FATALITIES'), ('one-and-half year old girl', 'AGE'), ('car', 'VEHICLE TYPE'), ('lorry', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('one-and-half', 'AGE'), ('girl', 'GENDER'), ('car', 'VEHICLE TYPE'), ('lorry', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Accuracy: 0.5714285714285714
+Precision: 0.8
+Recall: 0.6666666666666666
+F1-score: 0.7272727272727272
+---------------
+Text: A 22-year-old youth was killed and two seriously injured when a four-wheeler they were travelling in overturned after being hit by another vehicle at Kanadia Bypass on Sunday morning
+Predicted entities: [('22-year-old', 'AGE'), ('two', 'INJURED'), ('four-wheeler', 'VEHICLE TYPE'), ('morning', 'TIME')]
+Annotated entities: [('22-year-old', 'AGE'), ('two', 'INJURED'), ('four-wheeler', 'VEHICLE TYPE'), ('overturned', 'REASON'), ('morning', 'TIME')]
+Accuracy: 0.8
+Precision: 1.0
+Recall: 0.8
+F1-score: 0.888888888888889
+---------------
+Text: A 42-year-old man and a six-year-old child died in a road accident near Vataman Crossroads close to Bhalad village in Ahmedabad, when a truck rammed into their car on Thursday afternoon
+Predicted entities: [('42-year-old', 'AGE'), ('man', 'GENDER'), ('six-year-old', 'AGE'), ('child', 'GENDER'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Annotated entities: [('42-year-old', 'AGE'), ('man', 'GENDER'), ('six-year-old', 'AGE'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Accuracy: 0.8571428571428571
+Precision: 0.8571428571428571
+Recall: 1.0
+F1-score: 0.923076923076923
+---------------
+Text: Ram Kinkar Ram, 35, the son of Trinamool councillor Ram Pyare Ram, was killed after a loaded truck toppled and fell on his car in the Kidderpore port area on Saturday evening
+Predicted entities: [('35', 'AGE'), ('loaded', 'REASON'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('evening', 'TIME')]
+Annotated entities: [('35', 'AGE'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE'), ('evening', 'TIME')]
+Accuracy: 0.8
+Precision: 0.8
+Recall: 1.0
+F1-score: 0.888888888888889
+---------------
+Text: A 35-year-old man died while three others sustained injuries on Saturday afternoon after a boulder fell from a hill onto their car around 2 km ahead of Kainchi Dham in Nainital 
+Predicted entities: [('35-year-old', 'AGE'), ('man', 'GENDER'), ('three', 'INJURED'), ('afternoon', 'TIME'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('35-year-old', 'AGE'), ('man', 'GENDER'), ('three', 'INJURED'), ('afternoon', 'TIME'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two persons, including a woman, died and two others suffered injuries after the car they were travelling in from Bokaro collided with a JCB at Chutupalu valley on NH-33 near Maganpur village under Gola police police station limits on Saturday around 3
+Predicted entities: [('Two', 'FATALITIES'), ('woman', 'GENDER'), ('two', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Two', 'FATALITIES'), ('woman', 'GENDER'), ('two', 'INJURED'), ('car', 'VEHICLE TYPE')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A two-year-old boy, who was run over by a reversing car twice within a span of a few seconds, survived with grievous injuries at Pattanam near Rasipuram in the district on Saturday
+Predicted entities: [('two-year-old', 'AGE'), ('boy', 'GENDER')]
+Annotated entities: [('two-year-old', 'AGE'), ('boy', 'GENDER'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: Four persons, including a couple and their two minor daughters, were killed and another person was seriously injured on Sunday when a truck rammed into their car in Madhya Pradesh 's Sagar district , police said
+Predicted entities: [('Four', 'FATALITIES'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('truck', 'VEHICLE TYPE'), ('rammed', 'REASON'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.75
+Precision: 1.0
+Recall: 0.75
+F1-score: 0.8571428571428571
+---------------
+Text: A two-wheeler rider died after a KSRTC bus hit his vehicle at Jakribettu in Bantwal taluk on Wednesday
+Predicted entities: [('two-wheeler', 'VEHICLE TYPE'), ('bus', 'VEHICLE TYPE')]
+Annotated entities: [('two-wheeler', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.5
+Recall: 1.0
+F1-score: 0.6666666666666666
+---------------
+Text: Three occupants of an Eeco van were killed and eight others were injured after their vehicle collided head on with a DTC bus on a flyover near Loni Gol Chakkar in northeast Delhi on Thursday afternoon
+Predicted entities: [('Three', 'FATALITIES'), ('van', 'VEHICLE TYPE'), ('eight', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('van', 'VEHICLE TYPE'), ('eight', 'INJURED'), ('bus', 'VEHICLE TYPE'), ('afternoon', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Two days after a 25-year-old woman was killed when her shawl got entangled in the rear wheel of the bike she was riding pillion, the city traffic police on Friday requested women to be cautious while travelling on two-wheelers
+Predicted entities: [('25-year-old', 'AGE'), ('woman', 'GENDER'), ('shawl', 'VEHICLE TYPE'), ('bike', 'VEHICLE TYPE'), ('women', 'GENDER'), ('two-wheelers', 'VEHICLE TYPE')]
+Annotated entities: [('25-year-old', 'AGE'), ('woman', 'GENDER'), ('bike', 'VEHICLE TYPE'), ('women', 'GENDER'), ('two-wheelers', 'VEHICLE TYPE')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: Three men lost their lives and one woman sustained injuries in Karauli on Wednesday when their car was hit by an oncoming truck
+Predicted entities: [('Three', 'FATALITIES'), ('men', 'GENDER'), ('one', 'INJURED'), ('woman', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Annotated entities: [('Three', 'FATALITIES'), ('men', 'GENDER'), ('woman', 'GENDER'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.8333333333333334
+Precision: 0.8333333333333334
+Recall: 1.0
+F1-score: 0.9090909090909091
+---------------
+Text: A woman and three children were killed when a speeding canter truck rammed into a stationary car on the Delhi-Gurgaon Expressway near Jharsa Chowk, police said on Wednesday
+Predicted entities: [('woman', 'GENDER'), ('three', 'FATALITIES'), ('children', 'AGE'), ('speeding', 'REASON'), ('canter', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('woman', 'GENDER'), ('three', 'FATALITIES'), ('speeding', 'REASON'), ('truck', 'VEHICLE TYPE'), ('car', 'VEHICLE TYPE')]
+Accuracy: 0.7142857142857143
+Precision: 0.7142857142857143
+Recall: 1.0
+F1-score: 0.8333333333333333
+---------------
+Text: Three people were killed and three others sustained injuries in a road accident on the outskirts of Kurnool city in Andhra Pradesh on Wednesday morning
+Predicted entities: [('Three', 'FATALITIES'), ('three', 'INJURED'), ('morning', 'TIME')]
+Annotated entities: [('Three', 'FATALITIES'), ('three', 'INJURED'), ('morning', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: Five members of a family died on the spot after their car hit a parked container truck on Pune-Bengaluru national highway on Saturday
+Predicted entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE')]
+Annotated entities: [('Five', 'FATALITIES'), ('car', 'VEHICLE TYPE'), ('truck', 'VEHICLE TYPE')]
+Accuracy: 0.6666666666666666
+Precision: 1.0
+Recall: 0.6666666666666666
+F1-score: 0.8
+---------------
+Text: A 28-year-old pedestrian died at a hospital after he was run over by a small cargo truck near the Sikanderpur Metro station on MG Road just after midnight on Monday
+Predicted entities: [('28-year-old', 'AGE'), ('truck', 'VEHICLE TYPE'), ('midnight', 'TIME')]
+Annotated entities: [('28-year-old', 'AGE'), ('truck', 'VEHICLE TYPE'), ('midnight', 'TIME')]
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+---------------
+Text: A luxury car caught fire and was almost completely charred after hitting a tree on Golf Course Road in the early hours of Thursday
+Predicted entities: [('car', 'VEHICLE TYPE'), ('tree', 'REASON'), ('early', 'TIME')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('fire', 'REASON')]
+Accuracy: 0.25
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-score: 0.4
+---------------
+Text: A speeding rental car rammed into two policemen attached to the Verna police station on the Upasnagar-Sancoale highway
+Predicted entities: [('speeding', 'REASON'), ('car', 'VEHICLE TYPE'), ('policemen', 'GENDER')]
+Annotated entities: [('car', 'VEHICLE TYPE'), ('rammed', 'REASON')]
+Accuracy: 0.25
+Precision: 0.3333333333333333
+Recall: 0.5
+F1-score: 0.4
+---------------
+Text: Four people were killed and three injured in a head-on collision between a car and a jeep in Rajasthan's Dausa district on Tuesday, police said
+Predicted entities: [('Four', 'FATALITIES'), ('three', 'INJURED'), ('head-on', 'REASON'), ('jeep', 'VEHICLE TYPE')]
+Annotated entities: [('Four', 'FATALITIES'), ('three', 'INJURED'), ('collision', 'REASON'), ('car', 'VEHICLE TYPE'), ('jeep', 'VEHICLE TYPE')]
+Accuracy: 0.5
+Precision: 0.75
+Recall: 0.6
+F1-score: 0.6666666666666665
+---------------
+Accuracy: 0.5
+Average Precision: 0.8370007680491555
+Average Recall: 0.8262672811059909
+Average F1-score: 0.8169282628960051
