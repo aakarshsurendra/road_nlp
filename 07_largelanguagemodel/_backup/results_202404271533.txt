@@ -1,0 +1,48 @@
+
+
+{'role': 'user', 'content': 'NEW DELHI: A 20-year-old woman was killed and a 62-year-old man critically injured after they were hit by a speeding car that went into a tailspin and crashed into a pole in north Delhi\'s Civil Lines area. The driver of the car, who fled the scene, was later arrested. The incident took place on Sunday morning. According to Manoj Meena, DCP (North), the accused, Hans Jain (66), a resident of Shakti Nagar, was driving to Chawri Bazar, where he owned a shop, around 9am. However, he lost control of the vehicle and hit Subhash, who was walking on the road nearby. In an attempt to flee, Jain collided with a pole and crashed into the wall of the Old Police Lines, fatally knocking down Purnima Kumari, who worked as a health agent at a private hospital. "Upon receiving information about the accident, a team reached the spot where the two victims were found in a pool of blood. The i-20 was also found nearby in a mangled condition. The accused had left it before fleeing the scene," said Meena. The victims were rushed to a hospital for treatment. While Kumari was declared brought dead, Subhash sustained grievous injuries and his condition is stated to be critical. A case under Section 304 of the Indian Penal Code was registered at the Civil Lines police station. "Based on technical surveillance and the number plate of the vehicle that was found on the spot, the accused was identified and nabbed successfully. He has been remanded in judicial custody," said an officer. According to police, at the time of the incident, Kumari had collected samples from various locations and was returning to the hospital after disembarking at Kashmiri Gate Metro station. Subhash, a retired police official, was out for his morning walk. Explore Your Financial Landscape with Personalized Credit Insights.'}
+--------------------------------------------------
+output:{"fatalities": 1,"injured":1,"time_of_day":"Morning","reason":"lost control of vehicle","victim_gender":["Female","Male"],"vehicles":["car"],"child_involved":0,"names_ages":[("Purnima Kumari",20),("Subhash",62)]}
+--------------------------------------------------
+~~~~~ Output ~~~~~
+type --> <class 'str'>
+total tokens --> 1626
+prompt_tokens -  1562 response_tokens -  64
+--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x 
+
+
+
+{'role': 'user', 'content': 'Hyderabad: A 28-year-old software engineer , who came down from Australia to Peddapalli to attend wedding of a relative, drowned when his car plunged into roadside farm well in Peddapalli town in the very early hours of Saturday. Police suspect the victim failed to negotiate a curve on the road due to speeding and the car fell deep into the well. The accident occurred at 2.30 am when Vineet Reddy along with three relatives was travelling in the car. While the three managed to get out of the sinking car, Vineet, who was at the wheel with the seat belt strap on, couldn’t free himself in time and drowned as the car sank in the agricultural well. According to Peddapalli police, his relatives, D Sai Teja Reddy, Akhil Reddy and A Rohit Reddy, escaped with minor injuries. Vineet was supposed to go back to Australia shortly as he had landed in Telangana a month ago to attend his cousin’s marriage. On Friday night, all the relatives attended a dinner at Reddy Colony in Peddapalli. Late in the night, Vineet decided to return to his house at Rangampalli in the town. “Vineet was driving the car and three cousins were with him. There was a road curve at the accident spot and perhaps due to speeding, Vineet failed to negotiate the road curve. The car went off the road, hit the protection wall of the well and crashed into it,” police said. Sai Teja immediately managed to open a door of the car and came out. As soon as the door was opened, water entered into the car and the vehicle began to submerge. The other doors got jammed. As the other three cousins started banging on the the window glasses, Sai Teja climbed out holding a pipe. Once he was out, he dropped a boulder on the rear windshield of the car, making an opening in it. Rohit and Akhil managed to sneak out through the broken windshield and climbed to safety. “Vineet wore a seat belt. It took some time for him to remove it. He also had to wait for his turn to get out of the car as Rohit and Akhil were ahead of him. By the time his turn came, the car submerged and he could not get out,” police said. Explore Your Financial Landscape with Personalized Credit Insights.'}
+--------------------------------------------------
+output:{"fatalities": 1,"injured":3,"time_of_day":"early morning","reason":"speeding","victim_gender":["Male"],"vehicles":["car"],"child_involved":0,"names_ages":[("Vineet Reddy",28),("D Sai Teja Reddy",na),("Akhil Reddy",na),("A Rohit Reddy",na)]}
+--------------------------------------------------
+~~~~~ Output ~~~~~
+type --> <class 'str'>
+total tokens --> 1742
+prompt_tokens -  1659 response_tokens -  83
+--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x 
+
+
+
+{'role': 'user', 'content': 'NEW DELHI: PDP chief Mehbooba Mufti and her security personnel escaped unhurt after her car met with an accident in in Anantnag district of Jammu and Kashmir on Thursday. Mufti, who was on her way to Khanabal to meet the victims of a fire incident, did not suffer any injuries. However, a police officer in her personal security sustained minor injuries. The vehicle of the former Jammu and Kashmir chief minister collided with a civilian car at Sangam, a police official said. Explore Your Financial Landscape with Personalized Credit Insights.'}
+--------------------------------------------------
+output:{"fatalities": 0,"injured":1,"time_of_day":"NA","reason":"NA","victim_gender":["Female"],"vehicles":["car"],"child_involved":0,"names_ages":[("Mehbooba Mufti",na)]}
+--------------------------------------------------
+~~~~~ Output ~~~~~
+type --> <class 'str'>
+total tokens --> 1345
+prompt_tokens -  1290 response_tokens -  55
+--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x 
+
+
+
+{'role': 'user', 'content': 'Coimbatore: Two people were killed and another person was critically injured in a road accident involving a speeding multi-purpose vehicle (MPV), bike and a scooter near Kuttaiyur on Coimbatore-Mettupalayam Road here in the early hours of Tuesday. The Karamadai police identified the deceased as V Chandrasekar, 53, of Jadayampalayam Pudur near Mettupalayam, and Ashwin Shaji, 23, a native of Gudalur in the Nilgiris district. An investigation officer said the incident occurred when Shaji, who was employed with an automobile manufacturing unit near Periyanaickenpalayam, was heading to his rental house at Mettupalayam from his workplace on a bike. “When he reached Kuttaiyur, his bike ran out of fuel. He contacted his friends and asked them to meet him at Kuttaiyur with petrol. While he was walking along the roadside with the bike around 12.45am, a speeding MPV hit them from behind, throwing them off in the air. Shaji succumbed to his head injuries on the spot. The bike fell on a scooter, critically injuring its rider D Prasanth, 27, of Rajapuram at Mettupalayam,” the officer said. The MPV, meanwhile, jumped the median, hit a roadside tree and came to a halt after crashing into a stone fence. “Branches of the tree pierced through the side glass windows of the MPV, causing severe head injuries to its driver Chandrasekar, who was working as a BSNL retail manager. The airbags of the vehicle were also deployed. He died on the spot,” the officer said. When alerted, the Karamadai police rushed Prasanth to a private hospital at Mettupalayam. The bodies were, meanwhile, sent to the government hospital at Mettupalayam and they were handed over to the family members after postmortem. Based on Prasanth’s complaint, the Karamadai police have registered a case. Explore Your Financial Landscape with Personalized Credit Insights.'}
+--------------------------------------------------
+output:{"fatalities": 2,"injured":1,"time_of_day":"Early hours","reason":"speeding","victim_gender":["Male"],"vehicles":["MPV","bike","scooter"],"child_involved":0,"names_ages":[("V Chandrasekar",53),("Ashwin Shaji",23),("D Prasanth",27)]}
+--------------------------------------------------
+~~~~~ Output ~~~~~
+type --> <class 'str'>
+total tokens --> 1697
+prompt_tokens -  1620 response_tokens -  77
+--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x--x 
+

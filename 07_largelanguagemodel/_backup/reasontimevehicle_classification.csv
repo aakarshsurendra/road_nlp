@@ -1,0 +1,100 @@
+,ID,JSON_String,JSON_Dict,time_of_day,reason,vehicles
+0,107938160,"{'time_of_day': NA, 'reason': 'Negligence', 'vehicles': ['Car']}",error:incorrect_format,,,
+1,107821301,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",night,Collision,"['Car', 'Commercial Vehicle']"
+2,107790964,"{'time_of_day': 'morning', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,External influences,"['Car', 'Commercial Vehicle']"
+3,107737101,"{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}",morning,Speed,['Car']
+4,107897709,"{'time_of_day': 'night', 'reason': 'External influences', 'vehicles': ['Car']}","{'time_of_day': 'night', 'reason': 'External influences', 'vehicles': ['Car']}",night,External influences,['Car']
+5,107874233,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car']}",error:incorrect_format,,,
+6,107837229,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+7,107619624,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Commercial Vehicle', 'Car']}",error:incorrect_format,,,
+8,107806086,"{'time_of_day': 'morning', 'reason': 'Driving Under Influence', 'vehicles': ['Car', 'Car']}","{'time_of_day': 'morning', 'reason': 'Driving Under Influence', 'vehicles': ['Car', 'Car']}",morning,Driving Under Influence,"['Car', 'Car']"
+9,107443549,"Since the input provided is not in valid JSON format, I am unable to process it. Please provide the input in valid JSON format.",error:incorrect_format,,,
+10,107737116,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['NA']}",error:incorrect_format,,,
+11,107554146,"{'time_of_day': 'night', 'reason': 'Negligence', 'vehicles': ['Car']}","{'time_of_day': 'night', 'reason': 'Negligence', 'vehicles': ['Car']}",night,Negligence,['Car']
+12,107508185,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+13,107441899,"{'time_of_day': 'afternoon', 'reason': 'External influences', 'vehicles': ['Car']}","{'time_of_day': 'afternoon', 'reason': 'External influences', 'vehicles': ['Car']}",afternoon,External influences,['Car']
+14,107674800,"{'time_of_day': 'afternoon', 'reason': 'Collision', 'vehicles': ['Two-Wheeler', 'Car']}","{'time_of_day': 'afternoon', 'reason': 'Collision', 'vehicles': ['Two-Wheeler', 'Car']}",afternoon,Collision,"['Two-Wheeler', 'Car']"
+15,107612340,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car']}",night,Collision,['Car']
+16,107578941,"{'time_of_day': 'evening', 'reason': 'Collision', 'vehicles': ['Car']}","{'time_of_day': 'evening', 'reason': 'Collision', 'vehicles': ['Car']}",evening,Collision,['Car']
+17,107178539,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car', 'Commercial Vehicle']}",error:incorrect_format,,,
+18,107479317,"Since the input provided is not in valid JSON format, please provide the input in valid JSON format.",error:incorrect_format,,,
+19,107446381,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car']}",morning,Collision,['Car']
+20,107427856,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+21,107422930,"Since the input provided is not in valid JSON format, I am unable to process it. Please provide the input in a valid JSON format.",error:incorrect_format,,,
+22,107394532,"{'time_of_day': 'afternoon', 'reason': 'Negligence', 'vehicles': ['Car', 'Two-Wheeler']}","{'time_of_day': 'afternoon', 'reason': 'Negligence', 'vehicles': ['Car', 'Two-Wheeler']}",afternoon,Negligence,"['Car', 'Two-Wheeler']"
+23,107775613,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,Collision,"['Car', 'Commercial Vehicle']"
+24,107379707,"{'time_of_day': 'night', 'reason': 'Visibility', 'vehicles': ['Car', 'Two-Wheeler', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Visibility', 'vehicles': ['Car', 'Two-Wheeler', 'Commercial Vehicle']}",night,Visibility,"['Car', 'Two-Wheeler', 'Commercial Vehicle']"
+25,107407257,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,Collision,"['Car', 'Commercial Vehicle']"
+26,107065962,There seems to be a mistake in the input. The keys and values should be in string format. Please provide the input in the correct format.,error:incorrect_format,,,
+27,107043651,"{'time_of_day': ['morning', 'morning'], 'reason': ['Collision', 'Collision'], 'vehicles': ['Car', 'Commercial Vehicle', 'Two-Wheeler']}","{'time_of_day': ['morning', 'morning'], 'reason': ['Collision', 'Collision'], 'vehicles': ['Car', 'Commercial Vehicle', 'Two-Wheeler']}","['morning', 'morning']","['Collision', 'Collision']","['Car', 'Commercial Vehicle', 'Two-Wheeler']"
+28,107139440,"{'time_of_day': NA, 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}",error:incorrect_format,,,
+29,107097281,"Since the input provided is not in valid JSON format, I am unable to process it. Please provide the input in a valid JSON format.",error:incorrect_format,,,
+30,107238362,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['Car']}",error:incorrect_format,,,
+31,107234809,{},{},,,
+32,107002541,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['Car', 'Two-Wheeler', 'Commercial Vehicle']}",error:incorrect_format,,,
+33,106560896,{},{},,,
+34,106972042,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Two-Wheeler', 'Car']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Two-Wheeler', 'Car']}",night,Collision,"['Two-Wheeler', 'Car']"
+35,107700175,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['Commercial Vehicle', 'Car', 'Commercial Vehicle']}",error:incorrect_format,,,
+36,106882635,{},{},,,
+37,107103068,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Commercial Vehicle', 'Special Vehicle', 'Car']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Commercial Vehicle', 'Special Vehicle', 'Car']}",morning,Collision,"['Commercial Vehicle', 'Special Vehicle', 'Car']"
+38,107352627,"{'time_of_day': NA, 'reason': 'Negligence', 'vehicles': ['Car']}",error:incorrect_format,,,
+39,107128934,"{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car', 'Commercial Vehicle', 'Commercial Vehicle', 'Two-Wheeler']}","{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car', 'Commercial Vehicle', 'Commercial Vehicle', 'Two-Wheeler']}",night,Speed,"['Car', 'Commercial Vehicle', 'Commercial Vehicle', 'Two-Wheeler']"
+40,106433722,"{'time_of_day': NA, 'reason': 'Negligence', 'vehicles': ['Car']}",error:incorrect_format,,,
+41,107031744,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+42,107009388,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car']}",error:incorrect_format,,,
+43,106680234,"{'time_of_day': 'night', 'reason': 'Visibility', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Visibility', 'vehicles': ['Car', 'Commercial Vehicle']}",night,Visibility,"['Car', 'Commercial Vehicle']"
+44,106338450,There seems to be a mistake in the input format. Please provide the input in a valid JSON format with keys as strings and values as strings or lists.,error:incorrect_format,,,
+45,106911922,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Car']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Car']}",morning,Collision,"['Car', 'Car']"
+46,106035426,"{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car', 'Two-Wheeler']}","{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car', 'Two-Wheeler']}",night,Speed,"['Car', 'Two-Wheeler']"
+47,106849492,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+48,106527657,"{'time_of_day': 'morning', 'reason': 'Negligence', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Negligence', 'vehicles': ['Car']}",morning,Negligence,['Car']
+49,106826497,"{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}",morning,Speed,['Car']
+50,106728013,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+51,106682841,"{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Special Vehicle', 'Two-Wheeler', 'Two-Wheeler']}","{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Special Vehicle', 'Two-Wheeler', 'Two-Wheeler']}",morning,Speed,"['Special Vehicle', 'Two-Wheeler', 'Two-Wheeler']"
+52,106161164,"{'time_of_day': NA, 'reason': 'Negligence', 'vehicles': ['Car']}",error:incorrect_format,,,
+53,106197185,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car', 'Commercial Vehicle', 'Commercial Vehicle']}",error:incorrect_format,,,
+54,106173415,"{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}","{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}",night,Speed,"['Two-Wheeler', 'Car']"
+55,106305413,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,Collision,"['Car', 'Commercial Vehicle']"
+56,106115351,"{'time_of_day': 'morning', 'reason': 'Visibility', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Visibility', 'vehicles': ['Car']}",morning,Visibility,['Car']
+57,106290919,The input provided is not in valid JSON format. Please provide the input in valid JSON format with keys as strings and values as strings enclosed in double quotes.,error:incorrect_format,,,
+58,106243621,"{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car']}","{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Car']}",night,Speed,['Car']
+59,106197981,"{'time_of_day': 'evening', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'evening', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}",evening,External influences,"['Car', 'Commercial Vehicle']"
+60,106509706,"{'time_of_day': 'NA', 'reason': 'NA', 'vehicles': ['Car']}","{'time_of_day': 'NA', 'reason': 'NA', 'vehicles': ['Car']}",NA,NA,['Car']
+61,107113249,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car']}",error:incorrect_format,,,
+62,106499613,"{'time_of_day': 'morning', 'reason': 'Visibility', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'Visibility', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,Visibility,"['Car', 'Commercial Vehicle']"
+63,105480107,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",error:incorrect_format,,,
+64,106533830,"{'time_of_day': NA, 'reason': 'Speed', 'vehicles': ['Special Vehicle', 'Car']}",error:incorrect_format,,,
+65,106728421,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+66,106429928,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car']}",morning,Collision,['Car']
+67,105884183,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",night,Collision,"['Car', 'Commercial Vehicle']"
+68,106278067,"Since the input provided is not in valid JSON format, I am unable to process it. Please provide the input in valid JSON format.",error:incorrect_format,,,
+69,106886103,"{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Speed', 'vehicles': ['Car']}",morning,Speed,['Car']
+70,105302320,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+71,105380774,"{'time_of_day': 'NA', 'reason': 'Speed', 'vehicles': ['Car']}","{'time_of_day': 'NA', 'reason': 'Speed', 'vehicles': ['Car']}",NA,Speed,['Car']
+72,106196264,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",error:incorrect_format,,,
+73,106133743,"{'time_of_day': NA, 'reason': NA, 'vehicles': ['Car']}",error:incorrect_format,,,
+74,106107491,"{'time_of_day': 'night', 'reason': 'Driving Under Influence', 'vehicles': ['Car']}","{'time_of_day': 'night', 'reason': 'Driving Under Influence', 'vehicles': ['Car']}",night,Driving Under Influence,['Car']
+75,106083796,"{'time_of_day': NA, 'reason': 'Driving Under Influence', 'vehicles': ['Car']}",error:incorrect_format,,,
+76,106055887,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['Car']}",error:incorrect_format,,,
+77,107963038,"{'time_of_day': NA, 'reason': 'Negligence', 'vehicles': ['Special Vehicle', 'Car']}",error:incorrect_format,,,
+78,107955975,"{'time_of_day': 'afternoon', 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}","{'time_of_day': 'afternoon', 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}",afternoon,Speed,"['Two-Wheeler', 'Car']"
+79,106188195,"{'time_of_day': 'afternoon', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'afternoon', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}",afternoon,Negligence,"['Car', 'Commercial Vehicle']"
+80,106013173,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Special Vehicle']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Special Vehicle']}",night,Collision,"['Car', 'Special Vehicle']"
+81,107788297,"{'time_of_day': NA, 'reason': 'Speed', 'vehicles': ['Two-Wheeler', 'Car']}",error:incorrect_format,,,
+82,105886039,"{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,Collision,"['Car', 'Commercial Vehicle']"
+83,105875226,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car', 'Special Vehicle']}",error:incorrect_format,,,
+84,105273925,"{'time_of_day': 'evening', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'evening', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}",evening,Negligence,"['Car', 'Commercial Vehicle']"
+85,104901183,"{'time_of_day': 'evening', 'reason': 'Negligence', 'vehicles': ['Car']}","{'time_of_day': 'evening', 'reason': 'Negligence', 'vehicles': ['Car']}",evening,Negligence,['Car']
+86,106273921,Error: The input provided is not in valid JSON format. Please correct the input and try again.,error:incorrect_format,,,
+87,105208476,"{'time_of_day': 'morning', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'morning', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}",morning,External influences,"['Car', 'Commercial Vehicle']"
+88,105110703,Invalid input. The keys and values should be enclosed in double quotes.,error:incorrect_format,,,
+89,107707506,"Since the input provided is not in valid JSON format, I am unable to process it. Please provide the input in valid JSON format.",error:incorrect_format,,,
+90,107576696,"{'time_of_day': 'night', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}",night,External influences,"['Car', 'Commercial Vehicle']"
+91,106342781,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Commercial Vehicle']}",night,Collision,"['Car', 'Commercial Vehicle']"
+92,107861957,"{'time_of_day': NA, 'reason': 'External influences', 'vehicles': ['Car', 'Commercial Vehicle']}",error:incorrect_format,,,
+93,107980962,"{'time_of_day': NA, 'reason': 'Collision', 'vehicles': ['Car', 'Two-Wheeler']}",error:incorrect_format,,,
+94,107979658,"{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Commercial Vehicle', 'Car']}","{'time_of_day': 'night', 'reason': 'Speed', 'vehicles': ['Commercial Vehicle', 'Car']}",night,Speed,"['Commercial Vehicle', 'Car']"
+95,105268955,"{'time_of_day': NA, 'reason': 'Speed', 'vehicles': ['Car', 'Car']}",error:incorrect_format,,,
+96,104668982,"{'time_of_day': 'morning', 'reason': 'Negligence', 'vehicles': ['Car']}","{'time_of_day': 'morning', 'reason': 'Negligence', 'vehicles': ['Car']}",morning,Negligence,['Car']
+97,104965043,"{'time_of_day': 'night', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}","{'time_of_day': 'night', 'reason': 'Negligence', 'vehicles': ['Car', 'Commercial Vehicle']}",night,Negligence,"['Car', 'Commercial Vehicle']"
+98,107508976,"{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Special Vehicle', 'Car', 'Two-Wheeler']}","{'time_of_day': 'night', 'reason': 'Collision', 'vehicles': ['Car', 'Special Vehicle', 'Car', 'Two-Wheeler']}",night,Collision,"['Car', 'Special Vehicle', 'Car', 'Two-Wheeler']"
